@@ -4,7 +4,7 @@
 
 ## Hướng dẫn chạy
 
-Để đảm bảo tính nhất quán của môi trường và thư viện, toàn bộ mã nguồn đã được đưa lên Kaggle. Bạn vui lòng làm theo các bước sau để tái lập kết quả:
+Để đảm bảo tính nhất quán của môi trường và thư viện, toàn bộ mã nguồn đã được đưa lên Kaggle. Vui lòng làm theo các bước sau để tái lập kết quả:
 
 ### Bước 1: Truy cập Notebook
 👉 **Truy cập link dự án tại đây:** [**Kaggle**](https://www.kaggle.com/code/nguyenanhtu164/ml-cafa6)
